@@ -1,0 +1,1 @@
+ALTER TABLE "vessels" ADD COLUMN "type" varchar(100) DEFAULT 'cargo' NOT NULL;

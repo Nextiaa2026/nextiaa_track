@@ -1,0 +1,97 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1777942323634,
+      "tag": "0000_nervous_makkari",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1777948403117,
+      "tag": "0001_customer_geo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1777956086998,
+      "tag": "0002_kind_mathemanic",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1777977108234,
+      "tag": "0003_flat_spencer_smythe",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1777978452297,
+      "tag": "0004_mute_gwen_stacy",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1777996620000,
+      "tag": "0005_invoices",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1777997340000,
+      "tag": "0006_shipment_type",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1778038970696,
+      "tag": "0007_material_junta",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1778042000000,
+      "tag": "0008_vessel_status",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1778081993283,
+      "tag": "0009_luxuriant_madelyne_pryor",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1778604688319,
+      "tag": "0010_fresh_rattler",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1778605074732,
+      "tag": "0011_concerned_toad_men",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1778606838189,
+      "tag": "0012_same_violations",
+      "breakpoints": true
+    }
+  ]
+}
